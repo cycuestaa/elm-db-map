@@ -1,6 +1,6 @@
-# Elm Google Maps with web component
+# Elm Google Maps with web component and Firebase
 
-Modified from original
+Modified from
 (https://simonh1000.github.io/2019/08/elm-google-map-webcomponent/)
 ```bash
 mkdir test_project
